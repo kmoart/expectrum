@@ -1,1 +1,1 @@
-# ExpextrumApp
+# ExpectrumApp
